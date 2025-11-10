@@ -25,7 +25,3 @@ Here are a few representative files/folders:
 - `W3D1_Tutorial1_Bayes_with_a_binary_hidden_state_metadata_removed.ipynb` — Bayesian modelling with hidden states, relevant for cognitive/neural inference problems.  
 - `Comp_Neuro_Final_Project_<3>.ipynb` — My final project notebook: showcases integration of techniques and deeper modelling for a neuroscience‑type question.  
 - `LICENSE` — MIT License for sharing.  
-
----
-
-Thank you for visiting — let's build the future of brain‑inspired intelligence together!  
